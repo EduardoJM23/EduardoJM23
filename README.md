@@ -1,84 +1,73 @@
-# 👨‍💻 Eduardo Moura
+# Eduardo Moura
 
-## Sobre mim
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e aprendizado contínuo. Tenho foco tanto em **Back-end** quanto em **Front-end**, transformando curiosidade em código e ideias em projetos práticos.
+Me chamo **Eduardo Jorge Moura da Silva**, tenho **23 anos**, sou de **Macaé – Rio de Janeiro** e atualmente curso **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**
 
----
-
-## 🛠️ Tecnologias & Habilidades
-
-* **HTML**
-* **CSS**
-* **JavaScript**
-* **Python**
-* **C**
-* Git & GitHub
+Tenho como foco principal a **programação**,  buscando evoluir constantemente por meio de estudos práticos, projetos pessoais e aprendizado contínuo nas áreas de **Front-end e Back-end**.
 
 ---
 
-## 📂 Projetos
-
-### ⚓ Batalha Naval (C)
-
-Programa em C que simula o tabuleiro do jogo Batalha Naval (10x10).
-
-* Inicialização do tabuleiro com posições vazias
-* Posicionamento de 4 navios (horizontal, vertical e diagonais)
-* Verificação de limites e sobreposição
-* Exibição do tabuleiro completo
-* `0 = água | 3 = navio`
-
-**Status:** ✅ Concluído
+### 🎓 Formação
+- **Análise e Desenvolvimento de Sistemas** — Universidade Estácio de Sá  
+  📌 Foco em programação, lógica de software e desenvolvimento de aplicações
 
 ---
 
-### 🃏 Super Trunfo (C)
+### 🤖 Linguagens e Tecnologias
 
-Sistema de cadastro e comparação de cartas.
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-* Cadastro de estados e cidades
-* Dados: população, área, PIB e pontos turísticos
-* Cálculo da densidade populacional
-* Escolha de atributo para comparação
-* Exibição da carta vencedora ou empate
-
-**Status:** ✅ Concluído
-
----
-
-### ♟️ Simulador de Movimentos de Xadrez (C)
-
-Programa que simula a movimentação das peças de xadrez utilizando estruturas de repetição.
-
-* Movimentos do bispo, torre, rainha e cavalo
-* Uso de `for`, `while` e `do-while`
-* Exibição textual das direções de movimento
-
-**Status:** ✅ Concluído
+<br/>
+<br/>
 
 ---
 
-## 🎓 Formação
-
-**Análise e Desenvolvimento de Sistemas**
-Estácio – Centro, Macaé/RJ
-📚 *Em andamento*
+### 🎯 Objetivo Profissional
+Busco uma oportunidade de **estágio ou vaga júnior** em **desenvolvimento Front-end ou Back-end**, onde eu possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções eficientes.
 
 ---
 
-## 🌐 Contato
+### 🌐 Conecte-se comigo
 
-* 💼 LinkedIn: [linkedin.com/in/eduardo-moura-3b0999189](https://www.linkedin.com/in/eduardo-moura-3b0999189/)
-* 📧 E-mail: **[eduardojms19@gmail.com](mailto:eduardojms19@gmail.com)**
-* 📸 Instagram: **@eddu_tm**
+<p align="left">
+  <a href="https://github.com/EduardoJM23">
+    <img 
+      alt="Seguidores GitHub" 
+      title="Me siga no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/EduardoJM23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/eduardo-moura-3b0999189">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 ---
 
-## 🌍 Idiomas
+### 📊 Estatísticas do GitHub
 
-* Português: **Nativo**
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=EduardoJM23&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
-
-⭐ *Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na área de tecnologia!*
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJM23&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+  />
+</p>
